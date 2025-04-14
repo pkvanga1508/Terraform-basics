@@ -1,0 +1,3 @@
+bucket         = "prvanga-terraform-state-bucket"
+key            = "04-backend/dev/state.tfstate"
+region         = "us-east-2"
